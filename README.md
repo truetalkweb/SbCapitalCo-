@@ -1,9 +1,10 @@
-# SbCapitalCo-
-<html lang="en"><head>
+<!DOCTYPE html>
+<html lang="en">
+<head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <title>ICT Scalping Strategy — SbCapitalCo.</title>
-<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&amp;family=Barlow+Condensed:wght@300;400;600;700;900&amp;family=Barlow:wght@300;400;500;600&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Barlow+Condensed:wght@300;400;600;700;900&family=Barlow:wght@300;400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
     --bg: #06080c;
@@ -447,5 +448,5 @@
   // Optional: Add subtle tile watermark if desired
 </script>
 
-
-</body></html>
+</body>
+</html>
